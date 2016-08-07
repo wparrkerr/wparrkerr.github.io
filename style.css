@@ -1,0 +1,10 @@
+div.Title {
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	background-color: 6688ff;
+	width: 100%;
+	left: 0;
+	top: 0;
+	position: absolute;
+}
