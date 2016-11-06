@@ -1,0 +1,22 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-brand {
+	font-size: 30px;
+}
+
+.c-nav-page-link {
+	color: white;
+}
+
+#mirror-name {
+	-webkit-transform: scale(-1,1);
+	color:white;
+	opacity:0.15;
+	display:inline-block;
+}
