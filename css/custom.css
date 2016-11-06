@@ -20,3 +20,7 @@ body {
 	opacity:0.15;
 	display:inline-block;
 }
+
+.navbar-toggle {
+	background-color: #ffffff;
+}
