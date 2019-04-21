@@ -14,7 +14,7 @@
     <![endif]-->
     <script>
   // Set the date we're counting down to
-  var countDownDate = new Date("Apr 12, 2019 21:15:00").getTime();
+  var countDownDate = new Date("May 18, 2019 01:45:00").getTime();
 
   // Update the count down every 1 second
   var x = setInterval(function() {
@@ -38,36 +38,17 @@
     // If the count down is finished, write some text 
     if (distance < 0) {
       clearInterval(x);
-      document.getElementById("countdown").innerHTML = "EXPIRED";
+      document.getElementById("countdown").innerHTML = "We're In Greece! Woooooooooooo!";
     }
   }, 1000);
   </script>
   </head>
-  <body style="background-color:red">
+  <body background="images/santorini.jpg">
+    <img src="images/flag.gif" style="position:absolute; right:0px; bottom:0px;max-width:10%"> 
+    <h1 style="font-size: 64px;color:white;padding-left:30px; padding-top:20px "><i id="countdown"></i> until we go to Greece.</h1>
+        <p class ="lead" style="color:white;padding-left:30px">Holy moly</p>
 
-    <nav class="navbar navbar-light navbar-fixed-top" style="background-color: green;">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#"><span style="color:white;">Will Parker</span></a> <!--<div id="mirror-name">Will Parker</div></a>-->
-        </div>
-      </div>
-    </nav>
-
-    <!-- Big Intro "Hi, I'm Will Parker" -->
-    <div class="jumbotron" style="background-color: white">
-      <div class="container">
-        <h1><i id="countdown"></i> until we go to Italy.</h1>
-        <p class ="lead">I can't wait.</p>
-        <hr>
-      </div>
-    </div>
-    <!-- End of Big Intro -->
+    
 
     </div><!-- /.container -->
 
