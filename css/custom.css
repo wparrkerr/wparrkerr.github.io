@@ -10,6 +10,18 @@ body {
 	font-size: 30px;
 }
 
+.btn-primary {
+    color: black;
+    background-color: white;
+    border-color: #011936; /*set the color you want here*/
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    color: white;
+    background-color: #011936;
+    border-color: #011936; /*set the color you want here*/
+}
+
 .c-nav-page-link {
 	color: white;
 }
@@ -28,4 +40,8 @@ body {
 .container-fluid {
 	padding-top: 30px;
 	padding-bottom: 30px;
+}
+
+html {
+  scroll-padding-top: 50px; /* height of sticky header */
 }
