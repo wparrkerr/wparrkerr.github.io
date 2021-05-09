@@ -45,3 +45,9 @@ body {
 html {
   scroll-padding-top: 50px; /* height of sticky header */
 }
+
+@media (max-width: 767px) {
+    .keywordsJumbo {
+        display:none;
+    }
+}
