@@ -1,3 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-16T12:55:45-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Will Parker’s Website</title><entry><title type="html">Adding a Blog to my Site</title><link href="http://localhost:4000/2021/05/12/adding-a-blog.html" rel="alternate" type="text/html" title="Adding a Blog to my Site" /><published>2021-05-12T00:00:00-07:00</published><updated>2021-05-12T00:00:00-07:00</updated><id>http://localhost:4000/2021/05/12/adding-a-blog</id><content type="html" xml:base="http://localhost:4000/2021/05/12/adding-a-blog.html">&lt;p&gt;I’m adding a blog to my site to encourage myself to dig deeper and more formally into my interests. Currently, I’m an avid journaler. Unfortunately when journaling I fall too often into the traps of messy thoughts and lazy language. I figure that by posting my thoughts publicly–despite my incoming 0 pageviews–I’ll be forced to write things I’m a little more proud of. Which is a really exciting prospect for me.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-16T15:17:16-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Will Parker’s Website</title><entry><title type="html">Stoicism - My initial understanding</title><link href="http://localhost:4000/2021/05/16/Stoicism-Initial-Understanding.html" rel="alternate" type="text/html" title="Stoicism - My initial understanding" /><published>2021-05-16T00:00:00-07:00</published><updated>2021-05-16T00:00:00-07:00</updated><id>http://localhost:4000/2021/05/16/Stoicism-Initial-Understanding</id><content type="html" xml:base="http://localhost:4000/2021/05/16/Stoicism-Initial-Understanding.html">&lt;p&gt;&lt;strong&gt;What I’m doing here&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Stoicism seems to be all the rage these days. Though the contrarian in me wants to steer clear of what seems like just a philosophical fad of our time, most bits of Stoicism I’ve come across have resonated with me. And I’ve decided to do a deeper dive.&lt;/p&gt;
+
+&lt;p&gt;I’ve been soaking in all I can from online stoic resources–podcasts, blogs, youtube channels–and I’m about to read Letters From a Stoic by &lt;a href=&quot;https://plato.stanford.edu/entries/seneca/&quot;&gt;Seneca&lt;/a&gt;. I’m taking the time now to summarize Stoicism from a distance so that I can see how my understanding of it changes as I read the thoughts of the stoics themselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stoicism, at a glance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I can summarize the basics into three main takeaways:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;It’s a Life Code&lt;/strong&gt;. The Stoics weren’t just a bunch of guys sitting around and coming up with ideas about what &lt;em&gt;would be&lt;/em&gt; a proper way to live. For them, it’s about actually doing it.&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;“Waste no more time arguing what a good man should be. Be One.” –
+Marcus Aurelius&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;Stoicism isn’t a philosophical model for deducing nitty-gritty logic
+problems or for judging actions, laws, and people in hindsight. It’s
+more of a code for how to live.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;There’s a main goal:&lt;/strong&gt; figure out what is in your control and don’t let anything else 
+ 	affect you. Stoics emphasize that the most notable things that are out of your control are those which the average person spends an &lt;em&gt;extremely&lt;/em&gt; large amount of time thinking about: the future and the past.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;There are 4 primary virtues.&lt;/strong&gt; In their eyes, these virtues should dictate how you make decisions in situations that &lt;em&gt;are&lt;/em&gt; in your control.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Wisdom:&lt;/strong&gt; An understanding of what is a matter of moral importance and what is uncontrollable and thus meaningless. It is grown over time and used practically.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Courage:&lt;/strong&gt; The will and resilience to use your wisdom, especially when the crowd pressures you otherwise.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Temperance:&lt;/strong&gt; Having at most what is enough and not depriving yourself of less than what is essential. Refers to anything–comfort, pleasure, responsibility, friends, challenges, free time…&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Justice:&lt;/strong&gt; Marcus Aurelius put it best and simply: “thought and action resulting in common good”.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Learn more&lt;/strong&gt;
+Here are some resources I used.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dailystoic.com/podcast/&quot;&gt;Daily Stoic Podcast&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.holstee.com/blogs/mindful-matter/stoicism-101-everything-you-wanted-to-know-about-stoicism-stoic-philosophy-and-the-stoics&quot;&gt;Good in-depth blog post: ‘Stoicism 101’&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=R9OCA6UFE-0&quot;&gt;TED-Ed: Cool animated intro to Stoicism&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">What I’m doing here</summary></entry><entry><title type="html">Adding a Blog to my Site</title><link href="http://localhost:4000/2021/05/12/adding-a-blog.html" rel="alternate" type="text/html" title="Adding a Blog to my Site" /><published>2021-05-12T00:00:00-07:00</published><updated>2021-05-12T00:00:00-07:00</updated><id>http://localhost:4000/2021/05/12/adding-a-blog</id><content type="html" xml:base="http://localhost:4000/2021/05/12/adding-a-blog.html">&lt;p&gt;I’m adding a blog to my site to encourage myself to dig deeper and more formally into my interests. Currently, I’m an avid journaler. Unfortunately when journaling I fall too often into the traps of messy thoughts and lazy language. I figure that by posting my thoughts publicly–despite my incoming 0 pageviews–I’ll be forced to write things I’m a little more proud of. Which is a really exciting prospect for me.&lt;/p&gt;
 
 &lt;p&gt;Who knows, maybe if I do something with my life somebody will actually read this.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’m adding a blog to my site to encourage myself to dig deeper and more formally into my interests. Currently, I’m an avid journaler. Unfortunately when journaling I fall too often into the traps of messy thoughts and lazy language. I figure that by posting my thoughts publicly–despite my incoming 0 pageviews–I’ll be forced to write things I’m a little more proud of. Which is a really exciting prospect for me.</summary></entry></feed>
