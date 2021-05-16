@@ -1,0 +1,58 @@
+body {
+  padding-top: 50px;
+}
+
+.post-in-list {
+  color:black;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-brand {
+	font-size: 30px;
+}
+
+.btn-primary {
+    color: black;
+    background-color: white;
+    border-color: #011936; /*set the color you want here*/
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    color: white;
+    background-color: #011936;
+    border-color: #011936; /*set the color you want here*/
+}
+
+.c-nav-page-link {
+	color: white;
+}
+
+#mirror-name {
+	-webkit-transform: scale(-1,1);
+	color:white;
+	opacity:0.15;
+	display:inline-block;
+}
+
+.navbar-toggle {
+	background-color: #ffffff;
+}
+
+.container-fluid {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+html {
+  scroll-padding-top: 50px; /* height of sticky header */
+}
+
+@media (max-width: 767px) {
+    .keywordsJumbo {
+        display:none;
+    }
+}
